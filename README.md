@@ -19,4 +19,3 @@ South African full-stack web developer, systems builder, and ICT student at **So
 ## Connect With Me
 * **Platform:** [unipathsa.co.za](https://unipathsa.co.za)
 * **Location:** Durban, KwaZulu-Natal / Kimberley, Northern Cape, South Africa
-* ** mbambor50@gmail.com
